@@ -14,11 +14,11 @@ Even worse when he's not the only one, and the "vacations" don't overlap.
 
 When the utility bill comes, it wouldn't be fair if the amount was split evenly between everyone.
 
-## I'm here to help!
+### I'm here to help!
 
 After months of manual calculation, I wrote this script that does it for me!
 
-### Please note:
+## Please note:
 
 It's for my personal usage, so I haven't included any error catching.
 So don't try breaking it ;)
